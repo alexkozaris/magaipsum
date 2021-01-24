@@ -1,0 +1,42 @@
+.jumbotext {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    max-width: 800px;
+    text-align: center;
+}
+
+.jumbotext h1 {
+    padding-top: 20px;
+    font-size: 3.5rem;
+}
+
+.jumbotext h2 {
+    padding-bottom: 30px;
+}
+
+.jumbotext p {
+    font-size: 1.3rem;
+    line-height: 2.0rem;
+}
+
+.ipsumform {
+    max-width: 600px;
+    padding-bottom: 30px;
+}
+
+.ipsum {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 800px;
+}
+
+#ipsum-text {
+    padding: 0;
+    margin: 0;
+    text-align: justify;
+}
+
+.footy {
+    text-align: center;
+    padding-top: 20px;
+}
